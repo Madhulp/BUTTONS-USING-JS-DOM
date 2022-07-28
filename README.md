@@ -1,3 +1,3 @@
 # BUTTONS-USING-JS-DOM
 
-https://github.com/Madhulp/BUTTONS-USING-JS-DOM/wiki
+https://endearing-sorbet-68fe78.netlify.app/
